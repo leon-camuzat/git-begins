@@ -1,9 +1,11 @@
-git add.
+git add. (ajouter)
 
-git commit -m push "text"
+git commit -m push "text" (commentaire)
 
-git push
+git push (mise à jour de local à github)
 
-git pull
+git pull (mise à jour de GitHub à local)
 
-git branch name-of-the-branch
+git branch name-of-the-branch (créer une branche)
+
+git branch checkout (basculer sur une branche)
