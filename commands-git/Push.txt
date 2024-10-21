@@ -5,3 +5,7 @@ git commit -m push "text"
 git push
 
 git pull
+
+git branch name-of-the-branch
+
+git checkout "name-of-the-branch"
